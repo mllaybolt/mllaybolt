@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michelle. I also go by Mish
 - 👀 I’m interested in building - and breaking - things
-- 🌱 I’m currently learning Angular and TypeScript, en route to full-stack development
+- 🌱 I’m currently learning Angular and TypeScript
 - 💞️ I’m looking to collaborate on thought-provoking projects
 - 📫 How to reach me: michellelaybolt.ca
